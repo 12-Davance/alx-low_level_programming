@@ -1,1 +1,1 @@
-First C codes with Alx: compiling c program and hello world code
+First C codes with Alx: compiling c program and hello world code.
